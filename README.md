@@ -3,10 +3,6 @@ payment-crowdsourcing
 
 Meteor package to drop in a crowdsourcing payment page using Stripe.
 
-payment-crowdsourcing
-==============================
-
-Meteor package to drop in a pay-per-service payment page using the Stripe API.
 
 ==============================
 #### Installation
