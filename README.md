@@ -3,6 +3,7 @@ payment-crowdsourcing
 
 Meteor package to drop in a crowdsourcing payment page using Stripe.
 
+![travis-build](https://travis-ci.org/awatson1978/payment-crowdsourcing.svg?branch=master)  
 
 ==============================
 #### Installation
@@ -10,7 +11,10 @@ Meteor package to drop in a crowdsourcing payment page using Stripe.
 A.  Clone the repo to your local computer.
 
 ````js
-git clone https://github.com/awatson1978/payment-per-service.git payment-crowdsourcing
+git clone https://github.com/awatson1978/payment-per-service.git  
+cd  payment-crowdsourcing
+
+meteor
 ````
 
 B.  Create your Stripe Account at https://manage.stripe.com/account  
