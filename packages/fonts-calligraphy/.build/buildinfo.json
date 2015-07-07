@@ -1,0 +1,42 @@
+{
+  "builtBy": "meteor/8",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/fonts-calligraphy/package.js": "1add49b8e69c42ccbc21999f4512a74d90102dc7",
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/fonts-calligraphy/AlexBrush-Regular.ttf": "0b0625d0d946b6ee75a99f89f4fde83c88644769",
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/fonts-calligraphy/fonts-calligraphy.css": "260c52f5912ada3bd3dac8f58a1200e697c744cb"
+      },
+      "directories": []
+    },
+    "os.json": {
+      "files": {
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/fonts-calligraphy/package.js": "1add49b8e69c42ccbc21999f4512a74d90102dc7"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/fonts-calligraphy/package.js": "1add49b8e69c42ccbc21999f4512a74d90102dc7"
+      },
+      "directories": []
+    },
+    "tests.os.json": {
+      "files": {
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/fonts-calligraphy/package.js": "1add49b8e69c42ccbc21999f4512a74d90102dc7"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/fonts-calligraphy/package.js": "1add49b8e69c42ccbc21999f4512a74d90102dc7"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "fonts-calligraphy": "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/fonts-calligraphy",
+    "meteor": "/Users/abigailwatson/.meteor/packages/meteor/e3bd161f1e"
+  },
+  "source": "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/fonts-calligraphy"
+}

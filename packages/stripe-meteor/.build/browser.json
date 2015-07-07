@@ -1,0 +1,19 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "browser/packages/stripe-meteor.js",
+      "length": 174168,
+      "offset": 0,
+      "servePath": "/packages/stripe-meteor.js",
+      "sourceMap": "browser/packages/stripe-meteor.js.map"
+    }
+  ]
+}

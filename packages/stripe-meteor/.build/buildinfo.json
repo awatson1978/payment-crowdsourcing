@@ -1,0 +1,43 @@
+{
+  "builtBy": "meteor/8",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/stripe-meteor/package.js": "378e9a61b8c454c1f1417e5c8c34848614e3feba",
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/stripe-meteor/stripe_client.js": "a4619ff4e0429bc869eb7d711deec41a82fc1f7e",
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/stripe-meteor/stripe_checkout.js": "e5f2a7e5984e776eb86e0ed30872f7fe0dd42251"
+      },
+      "directories": []
+    },
+    "os.json": {
+      "files": {
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/stripe-meteor/package.js": "378e9a61b8c454c1f1417e5c8c34848614e3feba",
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/stripe-meteor/stripe_server.js": "106e5d759d0544c83faf15682ba06159a80c870a"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/stripe-meteor/package.js": "378e9a61b8c454c1f1417e5c8c34848614e3feba"
+      },
+      "directories": []
+    },
+    "tests.os.json": {
+      "files": {
+        "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/stripe-meteor/package.js": "378e9a61b8c454c1f1417e5c8c34848614e3feba"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/stripe-meteor/package.js": "378e9a61b8c454c1f1417e5c8c34848614e3feba"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "stripe-meteor": "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/stripe-meteor",
+    "meteor": "/Users/abigailwatson/.meteor/packages/meteor/e3bd161f1e"
+  },
+  "source": "/Users/abigailwatson/Code/Meteor/crowdsourcing/packages/stripe-meteor"
+}

@@ -1,0 +1,19 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "os/packages/fonts-calligraphy.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/fonts-calligraphy.js",
+      "sourceMap": "os/packages/fonts-calligraphy.js.map"
+    }
+  ]
+}

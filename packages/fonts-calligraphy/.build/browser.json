@@ -1,0 +1,34 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "asset",
+      "file": "browser/packages/fonts-calligraphy/AlexBrush-Regular.ttf",
+      "length": 49020,
+      "offset": 0,
+      "servePath": "/packages/fonts-calligraphy/AlexBrush-Regular.ttf",
+      "path": "AlexBrush-Regular.ttf"
+    },
+    {
+      "type": "css",
+      "file": "browser/packages/fonts-calligraphy/fonts-calligraphy.css",
+      "length": 151,
+      "offset": 0,
+      "servePath": "/packages/fonts-calligraphy/fonts-calligraphy.css"
+    },
+    {
+      "type": "prelink",
+      "file": "browser/packages/fonts-calligraphy.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/fonts-calligraphy.js",
+      "sourceMap": "browser/packages/fonts-calligraphy.js.map"
+    }
+  ]
+}
